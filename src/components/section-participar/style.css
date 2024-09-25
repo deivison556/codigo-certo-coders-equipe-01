@@ -7,17 +7,9 @@
   font-family: "Roboto", sans-serif;
 }
 
-/* criando variaveis das paleta de cores */
-:root {
-  --cor-principal-red: #E53939;
-  --cor-secundaria-black: #000000;
-  --cor-tercearia-white: #FFFFFFFF;
-  --cor-hover-darkRed: #B72424;
-}
-
 body {
-  color: white;
-  background-color: black;
+  color: #fff;
+  background-color: #000;
 }
 
 #section-participar {
@@ -88,7 +80,7 @@ body {
 }
 
 #section-container-passos .cards-participar-passos h3 {
-  color: #ffffff;
+  color: #fff;
   font-weight: 700;
   font-size: 1.125em;
 }
@@ -107,7 +99,7 @@ body {
   text-align: center;
   padding-top: 21px;
   text-decoration: none;
-  color: #FFFFFF;
+  color: #fff;
   font-size: 1em;
   transition: .3s;
 }
